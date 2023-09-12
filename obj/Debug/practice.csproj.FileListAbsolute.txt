@@ -1,0 +1,8 @@
+E:\New folder (6)\practice\practice\bin\Debug\practice.exe.config
+E:\New folder (6)\practice\practice\bin\Debug\practice.exe
+E:\New folder (6)\practice\practice\bin\Debug\practice.pdb
+E:\New folder (6)\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+E:\New folder (6)\practice\practice\obj\Debug\practice.csproj.SuggestedBindingRedirects.cache
+E:\New folder (6)\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+E:\New folder (6)\practice\practice\obj\Debug\practice.exe
+E:\New folder (6)\practice\practice\obj\Debug\practice.pdb
